@@ -1,0 +1,101 @@
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700);
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box; }
+*, *:before, *:after {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit; }
+body{
+	font-family: 'Libre Baskerville', Arial;
+	margin: 0;
+	padding: 0;
+	background-color: #fcfcfc;
+	color: #3c3c3c;
+	text-align: center;
+}
+main{
+	display: inline-block;
+	width: 430px;
+	margin: 50px auto;
+	text-align: center;
+	background-color: #fff;
+	padding: 20px;
+	border: 2px solid #f4f4f4;
+  	border-radius: 4px;
+}
+main h2{
+	font-size: 22px;
+	margin: 50px;
+}
+main img{
+	width: 250px;
+	padding: 10px;
+}
+main h4{
+	font-size: 17px;
+	font-weight: normal;
+	margin: 30px;
+	clear: both;
+}
+button, input, .btn{
+	display: inline-block;
+	height: 40px;
+	padding: 0 15px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: 0 0;
+	border: 1px solid #bfbfbf;
+	border-radius: 4px;
+	font-size: 12px;
+	line-height: 40px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin: 0;
+	outline: 0;
+}
+input{
+	background: #fff;
+}
+#upload{
+	background: #35ad6d;
+	color: #fff;
+	border-color: transparent;
+	cursor: pointer;
+}
+.btn{
+	background: #1091ed;
+	color: #fff;
+	border-color: transparent;
+	cursor: pointer;
+	margin-top: 30px;
+}
+section a,
+section a:link,
+section a:visited,
+section a:hover, span{
+	margin: 50px 20px 10px 20px;
+	display: inline-block;
+	color: #7c7c7c;
+	font-size: 14px;
+	text-decoration: none;
+}
+section a:first-of-type{
+	float: left;
+}
+section a:last-of-type{
+	float: right;
+}
+span{
+	display: block;
+	margin: 10px 25px;
+	color: #b80304;
+	float: left;
+	clear: both;
+}
+.clr{
+	clear:both;
+}
