@@ -13,7 +13,7 @@
 The user have to follow a certain format to make the converting functionality work properly.<br>
 Each table in each excel sheet should follow the following constraints<br>
   The First row: table name.<br>
-  The Second row: column name, datatype, size, PK. Note: The PK works only for (int, varchar, char, decimal, text).
+  The Second row: column name, datatype, size, PK. <b>Note: The PK works only for (int, varchar, char, decimal, text).</b>
 
 ##Supported Data types
 Int, decimal, varchar, char, text, data, and bit.
