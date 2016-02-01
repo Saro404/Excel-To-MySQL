@@ -10,9 +10,9 @@
 # Constraints
 
 ## Excel Format
-The user have to follow a certain format to make the converting functionality work properly.
-Each table in each excel sheet should follow the following constraints 
-  The First row: table name.
+The user have to follow a certain format to make the converting functionality work properly.<br>
+Each table in each excel sheet should follow the following constraints<br>
+  The First row: table name.<br>
   The Second row: column name, datatype, size, PK. Note: The PK works only for (int, varchar, char, decimal, text).
 
 ##Supported Data types
