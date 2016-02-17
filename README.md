@@ -26,7 +26,7 @@ Int, decimal, varchar, char, text, data, and bit.
 4.	A Class for parsing XLSX files (SpreadsheetReader_XLSX.php).
 
 
-# Note
+# Credits
 <b> This code is an enhanced version from https://github.com/alfhh/XLStoSQL </b>
 
 
